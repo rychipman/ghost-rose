@@ -48,11 +48,11 @@ h6 {
   font-size: 0.75em;
 }
 a {
-  color: #00ada7;
+  color: #ee5789;
   outline: none;
 }
 a:hover {
-  color: #00ada7;
+  color: #ee5789;
 }
 a:active,
 a:focus,
@@ -66,8 +66,8 @@ a img {
   border-radius: 2px;
 }
 .btn-default {
-  border: 1px solid #00ada7;
-  background: #00ada7;
+  border: 1px solid #ee5789;
+  background: #ee5789;
   color: #ffffff;
   -webkit-transition: all 0.2s ease-in-out;
   -moz-transition: all 0.2s ease-in-out;
@@ -109,11 +109,11 @@ input[type="text"]:focus,
 input[type="url"]:focus,
 input[type="email"]:focus,
 textarea:focus {
-  border: 1px solid #00ada7;
+  border: 1px solid #ee5789;
   outline: none;
 }
 blockquote {
-  border-left: 4px solid #00ada7;
+  border-left: 4px solid #ee5789;
   font-family: 'Roboto Slab', serif;
   font-style: italic;
 }
@@ -124,12 +124,12 @@ pre {
 }
 ::-moz-selection {
   color: #ffffff;
-  background: #00ada7;
+  background: #ee5789;
   text-shadow: none;
 }
 ::selection {
   color: #ffffff;
-  background: #00ada7;
+  background: #ee5789;
   text-shadow: none;
 }
 /*====================================================
@@ -143,7 +143,7 @@ pre {
 .main-header .branding {
   font-size: 3.5em;
   font-family: 'Roboto Slab', serif;
-  color: #303030;
+  color: #ee5789;
 }
 .main-header .branding:hover {
   text-decoration: none;
@@ -183,11 +183,11 @@ pre {
   font-family: 'Roboto Slab', serif;
 }
 .main-navigation .menu li:hover > a {
-  color: #00ada7;
+  color: #ee5789;
   text-decoration: none;
 }
 .main-navigation .menu li.nav-current a {
-  color: #00ada7;
+  color: #ee5789;
 }
 .main-navigation .menu li ul {
   visibility: hidden;
@@ -221,7 +221,7 @@ pre {
   color: #505050;
 }
 .main-navigation .menu li ul:hover > a {
-  color: #00ada7;
+  color: #ee5789;
 }
 .main-navigation .menu li:hover ul {
   visibility: visible;
@@ -245,7 +245,7 @@ pre {
 }
 .post .featured {
   position: absolute;
-  background: #00ada7;
+  background: #ee5789;
   color: #ffffff;
   text-align: center;
   top: -12px;
@@ -318,7 +318,7 @@ pre {
   margin-left: 7px;
 }
 .post .post-footer .tag-list a:hover {
-  color: #00ada7;
+  color: #ee5789;
 }
 .post .post-footer .share .share-icons {
   padding: 0;
@@ -349,8 +349,8 @@ pre {
 }
 .post .post-footer .share .share-icons li a:hover i {
   color: #ffffff;
-  background: #00ada7;
-  border: 1px solid #00ada7;
+  background: #ee5789;
+  border: 1px solid #ee5789;
 }
 /*====================================================
 	pagination
@@ -364,7 +364,7 @@ pre {
   text-align: center;
   display: inline-block;
   color: #ffffff;
-  background: #00ada7;
+  background: #ee5789;
   -webkit-border-radius: 2px;
   -moz-border-radius: 2px;
   border-radius: 2px;
@@ -380,7 +380,7 @@ pre {
   color: #ffffff;
 }
 .pagination .page-number {
-  background: #00ada7;
+  background: #ee5789;
   color: #ffffff;
   margin: 0 3px;
   display: inline-block;
@@ -460,7 +460,7 @@ pre {
   content: "";
   width: 90px;
   height: 1px;
-  background: #00ada7;
+  background: #ee5789;
   position: absolute;
   left: 0;
   bottom: -1px;
@@ -488,8 +488,8 @@ pre {
 }
 .widget .social li a:hover i {
   color: #ffffff;
-  background: #00ada7;
-  border: 1px solid #00ada7;
+  background: #ee5789;
+  border: 1px solid #ee5789;
 }
 .widget .tag-cloud a {
   border: 1px solid #ebebeb;
@@ -506,8 +506,8 @@ pre {
 }
 .widget .tag-cloud a:hover {
   color: #ffffff;
-  background: #00ada7;
-  border: 1px solid #00ada7;
+  background: #ee5789;
+  border: 1px solid #ee5789;
   text-decoration: none;
 }
 .widget .recent-post .recent-single-post {
@@ -525,7 +525,7 @@ pre {
   transition: all 0.2s ease;
 }
 .widget .recent-post .recent-single-post .post-title:hover {
-  color: #00ada7;
+  color: #ee5789;
   text-decoration: none;
 }
 .widget .recent-post .recent-single-post .date {
@@ -629,7 +629,7 @@ pre {
   border: 1px solid #303030;
 }
 .main-footer .widget .tag-cloud a:hover {
-  border: 1px solid #00ada7;
+  border: 1px solid #ee5789;
 }
 .main-footer .widget .recent-post .recent-single-post {
   border-bottom: 1px dashed #303030;
@@ -638,7 +638,7 @@ pre {
   color: #959595;
 }
 .main-footer .widget .recent-post .recent-single-post .post-title:hover {
-  color: #00ada7;
+  color: #ee5789;
 }
 .main-footer .widget .recent-post .recent-single-post .date {
   color: #505050;
@@ -655,7 +655,7 @@ pre {
   position: fixed;
   right: 10px;
   bottom: 10px;
-  background: rgba(0, 173, 167, 0.6);
+  background: rgba(238, 87, 137, 0.6);
   color: #ffffff;
   text-align: center;
   -webkit-border-radius: 2px;
@@ -665,7 +665,7 @@ pre {
   display: none;
 }
 #back-to-top:hover {
-  background: #00ada7;
+  background: #ee5789;
 }
 #back-to-top i {
   width: 30px;
@@ -683,7 +683,7 @@ pre {
     display: block;
   }
   .main-navigation .menu li:hover > a {
-    color: #00ada7;
+    color: #ee5789;
     text-decoration: none;
   }
   .main-navigation .menu li ul {
