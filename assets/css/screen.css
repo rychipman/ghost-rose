@@ -149,6 +149,7 @@ pre {
 }
 .main-header .branding {
   font-size: 4.5em;
+  line-height: 1em;
   font-family: 'Archer-Book', 'Roboto Slab', serif;
   color: #ee5789;
 }
