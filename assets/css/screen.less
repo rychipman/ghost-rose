@@ -54,14 +54,15 @@ a:active, a:focus, a img {
 	.border-radius(2px);
 }
 .btn-default {
-	border: 1px solid @theme-color;
+	border: none;
 	background: @theme-color;
 	color: @white;
+	font-weight: bold;
+	font-size: 16px;
 	.transition(all 0.2s ease-in-out);
 	&:hover {
-		border: 1px solid @text-color-heading;
-		background: @text-color-heading;
-		color: @white;
+		background: @white;
+		color: @theme-color;
 	}
 	&:focus {
 		outline: none;
