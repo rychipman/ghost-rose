@@ -185,8 +185,10 @@ pre {
   position: relative;
 }
 .main-navigation .menu li a {
+  font-size: 18px;
+  font-weight: bold;
   color: #505050;
-  line-height: 4em;
+  line-height: 3.5em;
   display: block;
   padding: 0 21px;
   font-family: 'Archer-Book', 'Roboto Slab', serif;
